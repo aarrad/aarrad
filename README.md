@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <p>
-        <img src="![code (1)](https://github.com/aarrad/aarrad/assets/153866511/06842a72-15ef-4780-90bc-4c70a8e3a520.gif" alt="Adil ARRAD" />
+        <img src="![code (1)](https://github.com/aarrad/aarrad/assets/153866511/06842a72-15ef-4780-90bc-4c70a8e3a520" alt="Adil ARRAD" />
     </p>
 </div>
