@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+    <p>
+        <img src="code(1).gif" alt="Adil ARRAD" />
+    </p>
+</div>
 ![code (1)](https://github.com/aarrad/aarrad/assets/153866511/93771a5c-df5b-4779-a097-e071a8ef3e69)
